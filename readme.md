@@ -12,7 +12,7 @@
 
 1.	fork 此專案，在你個人的帳號進行任務的進行
 2.	啟動 server 請用 8888 port
-3.	相關程式碼請用 push 至 fork 專案裏
+3.	相關程式碼請 push 至 fork 此專案之 Repository
 
 預期結果
 --------
